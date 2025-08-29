@@ -5,7 +5,7 @@ import re
 app = FastAPI()
 
 FULL_NAME = "adithya_kozham_burath_bijoy"
-EMAIL = "adithyakb1@gmail.com"
+EMAIL = "adithya.22bce9270@vitapstudent.ac.in"
 ROLL_NUMBER = "22BCE9270"
 BIRTHDATE = "22112004"
 USER_ID = f"{FULL_NAME}_{BIRTHDATE}"
